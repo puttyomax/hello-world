@@ -1,2 +1,5 @@
 # hello-world
-the very startpoint
+
+Hi from Tokyo
+
+I've studied Python, R, MySQL.
